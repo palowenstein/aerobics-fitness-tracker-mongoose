@@ -1,0 +1,5 @@
+.DS_Store
+application/.DS_Store
+application/node_modules
+application/public/.DS_Store
+application/seeders/.DS_Store
