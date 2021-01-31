@@ -2,4 +2,8 @@
 application/.DS_Store
 application/node_modules
 application/public/.DS_Store
+application/routes/.DS_Store
 application/seeders/.DS_Store
+application/public/css/.DS_Store
+application/public/js/.DS_Store
+application/public/fonts/.DS_Store

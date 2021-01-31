@@ -60,7 +60,7 @@ app.use(require("./routes/html-routes.js"));
 
 // port Listen + Console log
 app.listen(PORT, () => {
-  console.log(`App running on port ${PORT}!`);
+  console.log(`1980s Aerobics & Fitness Tracker Application now running on port ${PORT}!`);
 });
 
 
