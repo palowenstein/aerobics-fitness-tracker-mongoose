@@ -221,3 +221,5 @@ function workoutNames(data) {
   
   return workouts;
 }
+
+// Note: Code provided by Trilogy.

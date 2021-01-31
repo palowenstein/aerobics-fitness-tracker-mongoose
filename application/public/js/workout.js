@@ -82,3 +82,5 @@ function renderNoWorkoutText() {
 }
 
 initWorkout();
+
+// Note: code provided by Trilogy.
