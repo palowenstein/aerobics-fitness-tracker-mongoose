@@ -1,7 +1,7 @@
 {
-  "name": "mongoose_skeleton",
+  "name": "hw14-aerobics-fitness-tracker-mongoose",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aerobics Fitness Tracker built with Mongo database, Mongoose schema and Express route handling to complement front-end javascript, html+css code.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,8 +9,8 @@
     "watch": "nodemon server.js",
     "seed": "node seeders/seed.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Pierre Andre Lowenstein",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
     "mongoose": "^5.3.16",
