@@ -74,6 +74,10 @@
 
 ## Screenshots
 
+
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats page during initial use. Populated with information extracted from seeders/seed.js (PNG)](./demo_assets/17-3-aerobics-fitness-tracker-mongoose-workout-stats-application-startup.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats page during initial use. Populated with information extracted from seeders/seed.js (PNG)")
+<p>Fig. 3. "Workout Stats" page during initial use. Populated with information extracted from seeders/seed.js.</p>
+
 ![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page, Last Workout with null information. (PNG)](./demo_assets/17-4-aerobics-fitness-tracker-mongoose-landing-page-last-workout-first-use.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page, Last Workout with null information. (PNG)")
 <p>Fig. 4. Landing page, "Last Workout" with null information. Appears when application is first used or after a database flush.</p>
 
@@ -83,11 +87,16 @@
 ![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Resistance Exercise Example (PNG)](./demo_assets/17-5-aerobics-fitness-tracker-mongoose-add-your-exercise-resistance-example.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Resistance Exercise Example (PNG)")
 <p>Fig. 5. Resistance Exercise parameters: name, weight, sets, reps, duration. (example)</p>
 
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Added Successfully Bubble (PNG)](./demo_assets/17-8-aerobics-fitness-tracker-mongoose-workout-added-successfully.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Added Successfully Bubble (PNG)")
+<p>Fig. 8. Workout Added Successfully Bubble</p>
+
 ![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page with previous exercise information (PNG)](./demo_assets/17-6-aerobics-fitness-tracker-mongoose-landing-page-last-workout-populated-with-information.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page with previous exercise information (PNG)")
 <p>Fig. 6. Landing page impacted with previous exercise information (example)</p>
 
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Added Successfully Bubble (PNG)](./demo_assets/17-8-aerobics-fitness-tracker-mongoose-workout-added-successfully.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Added Successfully Bubble (PNG)")
-<p>Fig. 8. Workout Added Successfully Bubble</p>
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Terminal activity while application is running (PNG)](./demo_assets/17-9-aerobics-fitness-tracker-mongoose-typical-terminal-activity-while-application-is-running.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Terminal activity while application is running (PNG)")
+<p>Fig. 9. Terminal activity while application is running (example)</p>
+
+
 
 
 ## Video
@@ -132,15 +141,3 @@
 &nbsp;|&nbsp;
 <a href="mailto:coder@pierreandrelowenstein.com" title="Courriel / E-Mail">[e-mail] Send me a 'courriel'</a>
 </p>
-
-
-
-17-2-aerobics-fitness-tracker-mongoose-robo3t-seed-js-seeded.png
-17-3-aerobics-fitness-tracker-mongoose-node-server-js.png
-17-3-aerobics-fitness-tracker-mongoose-workout-stats-application-startup.png
-17-4-aerobics-fitness-tracker-mongoose-last-workout-null-exercises-performed-zero.png
-17-5-aerobics-fitness-tracker-mongoose-add-your-exercise-resistance-example.png
-17-6-aerobics-fitness-tracker-mongoose-last-workout-impacted-with-exercise-data
-17-7-aerobics-fitness-tracker-mongoose-add-your-exercise-cardio-example
-17-8-aerobics-fitness-tracker-mongoose-workout-added-succesfully
-17-9-aerobics-fitness-tracker-mongoose-typical-terminal-activity-while-application-is-running.png
