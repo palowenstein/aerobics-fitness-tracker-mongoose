@@ -20,12 +20,12 @@
 
 
 ## GIF
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (GIF)](./demo_assets/17-10-aerobics-fitness-tracker-mongoose-application-demo.gif "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (GIF)")
-<p>Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (GIF)</p>
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (GIF)](./demo_assets/17-1-aerobics-fitness-tracker-mongoose-application-demo.gif "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (GIF)")
+<p>Fig. 1. Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (GIF)</p>
 <br />
 
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats Interaction (GIF)](./demo_assets/17-11-aerobics-fitness-tracker-mongoose-workout-stats-interaction.gif "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats Interaction (GIF)")
-<p>Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats Interaction (GIF)</p>
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats Interaction (GIF)](./demo_assets/17-2-aerobics-fitness-tracker-mongoose-workout-stats-interaction.gif "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats Interaction (GIF)")
+<p>Fig. 2. Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats Interaction (GIF)</p>
 
 
 ## Overview
@@ -73,8 +73,8 @@
 <li>For the application to run in an heroku environment, a <strong>Procfile</strong> file with the startup instruction <kbd>node server.js</kbd> has been placed into the application folder.</li>
 </ul>
 
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — MongoDB Background Execution / Apple Terminal (PNG)](./demo_assets/17-1-aerobics-fitness-tracker-mongoose-mongoDB.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — MongoDB Background Execution / Apple Terminal (PNG)")
-<p>Fig. 1. Background execution of MongoDB in Apple's Terminal. MongoDB is called via the <kbd>mongo</kbd> command.</p>
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — MongoDB Background Execution / Apple Terminal (PNG)](./demo_assets/17-3-aerobics-fitness-tracker-mongoose-mongoDB.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — MongoDB Background Execution / Apple Terminal (PNG)")
+<p>Fig. 3. Background execution of MongoDB in Apple's Terminal. MongoDB is called via the <kbd>mongo</kbd> command.</p>
 
 ## Instructions
 <ul>
@@ -95,26 +95,30 @@
 
 ## Screenshots
 
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats page during initial use. Populated with information extracted from seeders/seed.js (PNG)](./demo_assets/17-3-aerobics-fitness-tracker-mongoose-workout-stats-application-startup.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats page during initial use. Populated with information extracted from seeders/seed.js (PNG)")
-<p>Fig. 3. "Workout Stats" page during initial use. Populated with information extracted from seeders/seed.js.</p>
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats page during initial use. Populated with information extracted from seeders/seed.js (PNG)](./demo_assets/17-4-aerobics-fitness-tracker-mongoose-workout-stats-application-startup.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats page during initial use. Populated with information extracted from seeders/seed.js (PNG)")
+<p>Fig. 4. "Workout Stats" page during initial use. Populated with information extracted from seeders/seed.js.</p>
 
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page, Last Workout with null information. (PNG)](./demo_assets/17-4-aerobics-fitness-tracker-mongoose-landing-page-last-workout-first-use.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page, Last Workout with null information. (PNG)")
-<p>Fig. 4. Landing page, "Last Workout" with null information. Appears when application is first used or after a database flush.</p>
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page, Last Workout with null information. (PNG)](./demo_assets/17-5-aerobics-fitness-tracker-mongoose-landing-page-last-workout-first-use.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page, Last Workout with null information. (PNG)")
+<p>Fig. 5. Landing page, "Last Workout" with null information. Appears when application is first used or after a database flush.</p>
 
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Cardio Exercise Example (PNG)](./demo_assets/17-7-aerobics-fitness-tracker-mongoose-add-your-exercise-cardio-example.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Cardio Exercise Example (PNG)")
-<p>Fig. 7. Cardio Exercise parameters: name, distance, duration.</p>
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Cardio Exercise Example (PNG)](./demo_assets/17-6-aerobics-fitness-tracker-mongoose-add-your-exercise-cardio-example.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Cardio Exercise Example (PNG)")
+<p>Fig. 6. Cardio Exercise parameters: name, distance, duration.</p>
 
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Resistance Exercise Example (PNG)](./demo_assets/17-5-aerobics-fitness-tracker-mongoose-add-your-exercise-resistance-example.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Resistance Exercise Example (PNG)")
-<p>Fig. 5. Resistance Exercise parameters: name, weight, sets, reps, duration.</p>
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Resistance Exercise Example (PNG)](./demo_assets/17-7-aerobics-fitness-tracker-mongoose-add-your-exercise-resistance-example.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Resistance Exercise Example (PNG)")
+<p>Fig. 7. Resistance Exercise parameters: name, weight, sets, reps, duration.</p>
 
 ![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Added Successfully Bubble (PNG)](./demo_assets/17-8-aerobics-fitness-tracker-mongoose-workout-added-successfully.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Added Successfully Bubble (PNG)")
 <p>Fig. 8. Workout Added Successfully Bubble.</p>
 
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page with previous exercise information (PNG)](./demo_assets/17-6-aerobics-fitness-tracker-mongoose-landing-page-last-workout-populated-with-information.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page with previous exercise information (PNG)")
-<p>Fig. 6. Landing page impacted with previous exercise information.</p>
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page with previous exercise information (PNG)](./demo_assets/17-9-aerobics-fitness-tracker-mongoose-landing-page-last-workout-populated-with-information.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page with previous exercise information (PNG)")
+<p>Fig. 9. Landing page impacted with previous exercise information.</p>
 
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Terminal activity while application is running (PNG)](./demo_assets/17-9-aerobics-fitness-tracker-mongoose-typical-terminal-activity-while-application-is-running.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Terminal activity while application is running (PNG)")
-<p>Fig. 9. Terminal activity while application is running.</p>
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Terminal activity while application is running (PNG)](./demo_assets/17-10-aerobics-fitness-tracker-mongoose-typical-terminal-activity-while-application-is-running.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Terminal activity while application is running (PNG)")
+<p>Fig. 10. Terminal activity while application is running.</p>
+
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — MongoDB properly filled with seeders/seed.js (Robo 3T) (PNG)](./demo_assets/17-11-aerobics-fitness-tracker-mongoose-robo3t-seed-js-seeded.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — MongoDB properly filled with seeders/seed.js (Robo 3T) (PNG)")
+<p>Fig. 11. MongoDB properly filled with seeders/seed.js (Robo 3T)</p>
+
 
 ## Video
 ![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (MP4)](./demo_assets/17-10-aerobics-fitness-tracker-mongoose-application-demo.mp4 "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (MP4)")
