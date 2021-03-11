@@ -1,3 +1,5 @@
+[Source_Elements]
+
 .DS_Store
 application/.DS_Store
 application/node_modules
@@ -7,3 +9,5 @@ application/seeders/.DS_Store
 application/public/css/.DS_Store
 application/public/js/.DS_Store
 application/public/fonts/.DS_Store
+
+demo_assets/.DS_Store

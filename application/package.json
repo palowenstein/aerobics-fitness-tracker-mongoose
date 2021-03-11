@@ -1,5 +1,5 @@
 {
-  "name": "hw17-aerobics-fitness-tracker-mongoose",
+  "name": "17-aerobics-fitness-tracker-mongoose",
   "version": "1.0.0",
   "description": "Aerobics Fitness Tracker built with MongoDB database connection, Mongoose ODM (Object Data Modeling) Schema and Express route handling to complement front-end javascript, html+css code.",
   "main": "server.js",
