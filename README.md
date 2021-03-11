@@ -61,7 +61,7 @@
         <li>exercises performed (pie chart).</li>
       </ol>
       <br />
-      Note: This last type can be edited on the fly (see Gif #2).</li>
+      Note: This last type can be edited on the fly (Fig. 2).</li>
   </li>
 </ul>
 
