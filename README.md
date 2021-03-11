@@ -22,10 +22,10 @@
 ## GIF
 ![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (GIF)](./demo_assets/17-1-aerobics-fitness-tracker-mongoose-application-demo.gif "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (GIF)")
 <p>Fig. 1. Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (GIF)</p>
+<br />
 
 ![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats Interaction (GIF)](./demo_assets/17-2-aerobics-fitness-tracker-mongoose-workout-stats-interaction.gif "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats Interaction (GIF)")
 <p>Fig. 2. Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats Interaction (GIF)</p>
-<br />
 
 ## Overview
 <ul>
@@ -60,7 +60,8 @@
         <li>pounds lifted (bar graph),</li>
         <li>exercises performed (pie chart).</li>
       </ol>
-      This last type can be edited on the fly (see Gif #2).</li>
+      <br />
+      Note: This last type can be edited on the fly (see Gif #2).</li>
   </li>
 </ul>
 
