@@ -79,7 +79,7 @@
 ## Instructions
 <ul>
 <li>Makes sure MongoDB is installed locally and running in the background as seen in Fig.1.</li>
-<li>In Terminal, locate the application's root directory and enter it via the <kbd>cd</kbd>> command: <kbd>cd aerobics-fitness-tracker-mongoose</kbd>.
+<li>In Terminal, locate the application's root directory and enter it via the <kbd>cd</kbd> command: <kbd>cd aerobics-fitness-tracker-mongoose</kbd>.
 <li>While in the root directory, run the <kbd>npm install</kbd> command to install the necessary node modules (mongoose, morgan, express) from the package.json.</li>
 <li>In Terminal, locate the seeders directory located in the main application directory via <kbd>cd application</kbd> then <kbd>cd seeders</kbd>.</li>
 <li>In the seeders directory, run the <kbd>node seed.js</kbd> command.</li>
