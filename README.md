@@ -43,7 +43,6 @@
                   <li>Duration</li>
               </ul>
           </li>
-          <li>
           <li>Resistance exercises which can be tracked with the following parameters:
               <ul>
                   <li>Name</li>
@@ -58,17 +57,6 @@
     </ol>
   </li>
 </ul>
-
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Cardio Exercise Example (PNG)](./demo_assets/17-7-aerobics-fitness-tracker-mongoose-add-your-exercise-cardio-example.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Cardio Exercise Example (PNG)")
-<p>Fig. 7. Cardio Exercise parameters: name, distance, duration. (example)</p>
-
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Resistance Exercise Example (PNG)](./demo_assets/17-5-aerobics-fitness-tracker-mongoose-add-your-exercise-resistance-example.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Resistance Exercise Example (PNG)")
-<p>Fig. 5. Resistance Exercise parameters: name, weight, sets, reps, duration. (example)</p>
-
-![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page with previous exercise information (PNG)](./demo_assets/17-6-aerobics-fitness-tracker-mongoose-last-workout-impacted-with-exercise-data.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page with previous exercise information (PNG)")
-<p>Fig. 6. Landing page impacted with previous exercise information (example)</p>
-
-
 
 ## Details
 <ul>
@@ -86,6 +74,20 @@
 
 ## Screenshots
 
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing Page, Last Workout with null information. (PNG)](./demo_assets/17-4-aerobics-fitness-tracker-mongoose-landing-page-last-workout-first-use.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing Page, Last Workout with null information. (PNG)")
+<p>Fig. 4. Landing Page, Last Workout with null information. (example)</p>
+
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Cardio Exercise Example (PNG)](./demo_assets/17-7-aerobics-fitness-tracker-mongoose-add-your-exercise-cardio-example.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Cardio Exercise Example (PNG)")
+<p>Fig. 7. Cardio Exercise parameters: name, distance, duration. (example)</p>
+
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Resistance Exercise Example (PNG)](./demo_assets/17-5-aerobics-fitness-tracker-mongoose-add-your-exercise-resistance-example.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Add Resistance Exercise Example (PNG)")
+<p>Fig. 5. Resistance Exercise parameters: name, weight, sets, reps, duration. (example)</p>
+
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page with previous exercise information (PNG)](./demo_assets/17-6-aerobics-fitness-tracker-mongoose-last-workout-impacted-with-exercise-data.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Landing page with previous exercise information (PNG)")
+<p>Fig. 6. Landing page impacted with previous exercise information (example)</p>
+
+![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Added Successfully Bubble (PNG)](./demo_assets/17-8-aerobics-fitness-tracker-mongoose-workout-added-successfully.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Added Successfully Bubble (PNG)")
+<p>Fig. 8. Workout Added Successfully Bubble</p>
 
 
 ## Video
