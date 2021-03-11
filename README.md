@@ -55,7 +55,7 @@
         </ol>
       </li>
     </ol>
-    <li>Access the "Workout Stats" (Statistics) page where the end user can visualise the:
+    <li>The separate "Workout Statistics" page allows the end user to visualise:
       <ol>
         <li>workout duration in minutes (line graph),</li>
         <li>pounds lifted (bar graph),</li>
@@ -70,11 +70,11 @@
 <li>A .gitignore file is present at the root level to prevent the upload of node_modules, Macintosh .DS_Store files.</li>
 <li>For this application to run locally, MongoDB must be installed and running in the background as seen in the terminal screen capture below. The application will not run correctly without a valid MongoDB install.</li>
 <li>The end user must first execute the package.json file located in the root folder of the application. This can be done in Apple's Terminal via the <kbd>npm install command</kbd> and will install the required dependencies (Express, Mongoose schema, Morgan middleware) needed for the program to run.</li>
-<li>For the application to run in an heroku environment, a <strong>Procfile</strong> file with the startup instruction, <kbd>node server.js</kbd>, has been placed into the application folder.</li>
+<li>For the application to run in an heroku environment, a <strong>Procfile</strong> file with the startup instruction <kbd>node server.js</kbd> has been placed into the application folder.</li>
 </ul>
 
 ![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — MongoDB Background Execution / Apple Terminal (PNG)](./demo_assets/17-1-aerobics-fitness-tracker-mongoose-mongoDB.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — MongoDB Background Execution / Apple Terminal (PNG)")
-<p>Fig. 1. Background execution of MongoDB in Apple's Terminal. MongoDB is called via the "mongo" command.</p>
+<p>Fig. 1. Background execution of MongoDB in Apple's Terminal. MongoDB is called via the <kbd>mongo</kbd> command.</p>
 
 ## Instructions
 <ul>
@@ -84,7 +84,7 @@
 <li>In Terminal, locate the seeders directory located in the main application directory via <kbd>cd application</kbd> then <kbd>cd seeders</kbd>.</li>
 <li>In the seeders directory, run the <kbd>node seed.js</kbd> command.</li>
 <li>This will pre-populate the mongoose schema so that the application doesn't start with null data.</li>
-<li>Back in Application directory via the <kbd>cd ..</kbd> command, run the <kbd>node server.js</kbd> command.</li>
+<li>Back in the Application directory via the <kbd>cd ..</kbd> command, run the <kbd>node server.js</kbd> command.</li>
 <li>This will launch the application which, in terminal, will indicate "1980s Aerobics & Fitness Tracker Application now running on port 4000".
 <li>You can now access the application in your browser by loading "localhost: 4000" from the address bar.</li>
 <li>When run initially, except for the date, the landing page will show null data.</li>
