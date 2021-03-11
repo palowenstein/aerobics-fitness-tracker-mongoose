@@ -85,8 +85,8 @@
 <li>In the seeders directory, run the <kbd>node seed.js</kbd> command.</li>
 <li>This will pre-populate the mongoose schema so that the application doesn't start with null data.</li>
 <li>Back in the Application directory via the <kbd>cd ..</kbd> command, run the <kbd>node server.js</kbd> command.</li>
-<li>This will launch the application which, in terminal, will indicate "1980s Aerobics & Fitness Tracker Application now running on port 4000".
-<li>You can now access the application in your browser by loading "localhost: 4000" from the address bar.</li>
+<li>This will launch the application which, in terminal, will indicate <code>1980s Aerobics & Fitness Tracker Application now running on port 4000</code>.
+<li>You can now access the application in your browser by loading <code>localhost:4000</code> from the address bar.</li>
 <li>When run initially, except for the date, the landing page will show null data.</li>
 <li>However, if the seed.js file has been properly executed, the workout statistics pages will appear pre-filled at launch.</li>
 <li>Note: Pre-configured version of this application is accessible via Heroku: https://afternoon-oasis-52971.herokuapp.com/</li>
@@ -116,17 +116,12 @@
 ![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Terminal activity while application is running (PNG)](./demo_assets/17-9-aerobics-fitness-tracker-mongoose-typical-terminal-activity-while-application-is-running.png "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Terminal activity while application is running (PNG)")
 <p>Fig. 9. Terminal activity while application is running.</p>
 
-
-
-
 ## Video
 ![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (MP4)](./demo_assets/17-10-aerobics-fitness-tracker-mongoose-application-demo.mp4 "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Application Demo (MP4)")
 <br />
 
 ![Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats Interaction (MP4)](./demo_assets/17-11-aerobics-fitness-tracker-mongoose-workout-stats-interaction.mp4 "Aerobics Fitness Tracker (NoSQL, MongoDB, Mongoose, Node, Express, Morgan) — Workout Stats Interaction (MP4)")
 <br />
-
-
 
 ## References
 <ul>
